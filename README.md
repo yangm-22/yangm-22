@@ -1,6 +1,6 @@
 ## Hello, I'm Melody!
 
-🎓 I am a third-year student studying Mechatronics and Biomedical Engineering at McMaster University
+🎓 I am a fourth-year student studying Mechatronics and Biomedical Engineering at McMaster University
 
 💻 You will find some projects in my repositories here on GitHub
 
